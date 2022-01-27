@@ -1,6 +1,6 @@
 # SQL Discussion Questions
 
-## Talk with your group and write a few sentences about each question.
+## Talk with your group and write a few sentences about each question
 
 1 . When you tweet a tweet, your tweet is available to THE WHOLE INTERNET
 FOREVER. Why doesn't your tweet disappear after you post it? How does it stay on
